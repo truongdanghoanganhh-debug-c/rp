@@ -1,2 +1,1 @@
-# rp
-rapid trigger
+# rapid-trigger
