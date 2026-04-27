@@ -1,4 +1,6 @@
 console.log("Chess script running");
+console.log($request.url);
+console.log($response.body);
 
 if (!$response || !$response.body) {
   console.log("No response body");
